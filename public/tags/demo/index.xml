@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Akshay Jagadeesh</title>
+    <link>https://stanford.edu/~akshayj/tags/demo/</link>
+    <description>Recent content in Demo on Akshay Jagadeesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://stanford.edu/~akshayj/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population Receptive Fields</title>
+      <link>https://stanford.edu/~akshayj/project/prfs/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/project/prfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Attention</title>
+      <link>https://stanford.edu/~akshayj/project/selective-attention/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/project/selective-attention/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

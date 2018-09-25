@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Akshay Jagadeesh</title>
+    <link>https://stanford.edu/~akshayj/tags/</link>
+    <description>Recent content in Tags on Akshay Jagadeesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://stanford.edu/~akshayj/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://stanford.edu/~akshayj/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Deep-learning</title>
+      <link>https://stanford.edu/~akshayj/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://stanford.edu/~akshayj/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plot</title>
+      <link>https://stanford.edu/~akshayj/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://stanford.edu/~akshayj/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>https://stanford.edu/~akshayj/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

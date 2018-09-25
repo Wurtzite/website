@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Akshay Jagadeesh</title>
+    <link>https://stanford.edu/~akshayj/publication_types/2/</link>
+    <description>Recent content in 2 on Akshay Jagadeesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://stanford.edu/~akshayj/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting and changing feature priorities in visual short-term memory</title>
+      <link>https://stanford.edu/~akshayj/publication/changing-priorities-vstm/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/publication/changing-priorities-vstm/</guid>
+      <description>Featured in Psychonomic Society: Fortifying memory after encoding: Internal and external attention and visual short-term memory</description>
+    </item>
+    
+  </channel>
+</rss>

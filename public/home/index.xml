@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Akshay Jagadeesh</title>
+    <link>https://stanford.edu/~akshayj/home/</link>
+    <description>Recent content in Homes on Akshay Jagadeesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://stanford.edu/~akshayj/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://stanford.edu/~akshayj/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stanford.edu/~akshayj/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/about/</guid>
+      <description>About Me I am a 2nd year PhD student studying cognitive neuroscience, advised by Prof. Justin Gardner. I am interested in how visual experience is constructed by the brain.
+Prior to joining Stanford, I was at the University of California, Berkeley, where I worked in the lab of Prof. Mark D&amp;rsquo;Esposito. I have also worked as a visiting research assistant in the lab of Dr. Martin Rolfs at BCCN Berlin.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://stanford.edu/~akshayj/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://stanford.edu/~akshayj/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://stanford.edu/~akshayj/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://stanford.edu/~akshayj/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://stanford.edu/~akshayj/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://stanford.edu/~akshayj/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/teaching/</guid>
+      <description>I have been a graduate student instructor for the following courses at Stanford University:
+ Psych 50: Intro to Cognitive Neuroscience  Winter 2018  Psych 30: Perception  Fall 2017   </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://stanford.edu/~akshayj/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://stanford.edu/~akshayj/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stanford.edu/~akshayj/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
